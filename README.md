@@ -6,3 +6,6 @@
 ## SQL
 1. [SQL file 1](https://github.com/suriya1136/BA/blob/main/Youtube%20practice.sql) contains basic queries practised on a small dataset. This was done using PostgreSQL.
 2. [SQL file 2](https://github.com/suriya1136/BA/blob/main/Advanced%20queries.sql) contains advanced query functions such as window functions, advanced grouping, queries for statistical analysis - PERCENTILE_CONT, PERCENTILE_DISC etc.
+
+## Python notebooks
+1. [Python file 1](https://github.com/suriya1136/BA/blob/main/Python_df.ipynb) - created dataframes for data analysis using pandas library. Kernel used: Python 3.11.
