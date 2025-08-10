@@ -9,3 +9,4 @@
 
 ## Python notebooks
 1. [Python file 1](https://github.com/suriya1136/BA/blob/main/Python_df.ipynb) - created dataframes for data analysis using pandas library. Kernel used: Python 3.11.
+2. [Python file 2](https://github.com/suriya1136/BA/blob/main/airline%20flight%20analysis.ipynb) - analysis of airline flights using Pandas, Matplotlib, Seaborn libraries.
