@@ -2,7 +2,7 @@
 
 ## Dashboards
 1. [Adventure works dashboard](https://github.com/suriya1136/BA/blob/main/adventure_works_postgresql.pbix) prepared using Power BI gives an insight of how adventure works bicycle company functioned in 2018, 2019, 2020. We can infer which products were more profitable, which category of products sold more, which region has a rich customer base etc.
-2.[AirBnB dashboard](https://github.com/suriya1136/BA/blob/main/Youtube_tableau%201st%20project.twb) prepared using tableau gives an insight of their financials and their operations in Washington in 2016.
+2. [AirBnB dashboard](https://github.com/suriya1136/BA/blob/main/Youtube_tableau%201st%20project.twb) prepared using tableau gives an insight of their financials and their operations in Washington in 2016.
 
 ## SQL
 1. [SQL file 1](https://github.com/suriya1136/BA/blob/main/Youtube%20practice.sql) contains basic queries practised on a small dataset. This was done using PostgreSQL.
